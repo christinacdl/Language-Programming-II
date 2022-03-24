@@ -1,0 +1,66 @@
+﻿Facebook leak: Irish regulator probes 'old' data dump
+
+Mark Zuckerberg gestures with arms open in front of a padlock symbol on stage during a privacy speech
+
+A data leak involving personal details of hundreds of millions of Facebook users is being reviewed by Ireland's Data Protection Commission (DPC).
+
+The database is believed to contain a mix of Facebook profile names, phone numbers, locations and other facts about more than 530 million people.
+
+Facebook says the data is "old", from a previously-reported leak in 2019.
+
+But the Irish DPC said it will work with Facebook, to make sure that is the case.
+
+Ireland's regulator is critical to such investigations, as Facebook's European headquarters is in Dublin, making it an important regulator for the EU.
+
+The most recent data dump appears to contain the entire compromised database from the previous leak, which Facebook said it found and fixed more than a year and a half ago.
+
+But the dataset has now been published for free in a hacking forum, making it much more widely available.
+
+It covers 533 million people in 106 countries, according to researchers who have viewed the data. That includes 11 million Facebook users in the UK and more than 30 million Americans.
+
+Not every piece of data is available for every user, but the large scale of the leak has prompted concern from cyber-security experts.
+
+Facebook sued for 'losing control' of users’ data
+WhatsApp to limit service to all who reject terms
+Zuckerberg pledges 'privacy-focused' Facebook
+The DPC's deputy commissioner Graham Doyle said the recent data dump "appears to be" from the previous leak - and that the data-scraping behind it had happened before the EU's GDPR privacy legislation was in effect.
+
+"However, following this weekend's media reporting we are examining the matter to establish whether the dataset referred to is indeed the same as that reported in 2019," he added.
+
+Phone issues
+Despite the claims of the data being "old", some security researchers remain concerned due to the unchanging nature of the data involved.
+
+Phone numbers, for example, are unlikely to have changed for many people in the past two to three years, and other information - such as a date of birth or hometown - never change.
+
+Alon Gal, a well-known personality in cyber-security circles who tweets as @UnderTheBreach, wrote that the phone number database first appeared in January, where hackers could look up the phone database for a small fee.
+
+But the widespread leak of the database "means that if you have a Facebook account, it is extremely likely the phone number used for the account was leaked," he tweeted.
+
+"I have yet to see Facebook acknowledging this absolute negligence of your data," he added.
+
+Presentational grey line
+Analysis box by Joe Tidy, Cyber reporter
+This is a cautionary tale on a colossal scale.
+
+It's actually terrifyingly common for companies to store customer data in large, unsecured databases.
+
+Often they are discovered by well-meaning security researchers and are either deleted or made safe swiftly before the bad guys stumble upon the treasure trove.
+
+However, sometimes it's too late.
+
+This case highlights that a company's defence "we've fixed it now" is not good enough.
+
+The horse had bolted long before the stable doors were closed. And clearly, the horse has been having a field day for years since.
+
+The database has likely changed criminal hands many times before now being offered for free.
+
+Facebook may claim this is "an old story", but clearly it's one that keeps coming back to bite it - and, more importantly, its users.
+
+Presentational grey line
+Troy Hunt, a Microsoft executive who runs HaveIBeenPwned - an online service for users to check if their information has been involved in a data breach - said queries were six times higher than normal since news of the database's release broke.
+
+He also suggested that the leaked dataset could be very useful "for a targeted attack where you know someone's name and country" - though it would be much harder to use for a blanket mass cyber-attack.
+
+"But for spam based on using phone number alone, it's gold," he added.
+
+"Not just SMS, there are heaps of services that just require a phone number these days and now there's hundreds of millions of them conveniently categorised by country with nice mail merge fields like name and gender."
