@@ -3,13 +3,16 @@
 Assignment 1
 
 Exercise 01 [3/100]: 
+
 A.	Write a program (counter.py) that prints the 50 most frequent bigrams of an English corpus, omitting bigrams that contain stopwords and punctuation. A variable “corpus_path” should specify the corpus; i.e. the path to a folder that contains text files.
 
 B.	The program should work for at least a corpus of 20 different files that each contains at least 500 words. 
 
 C.	The program should contain comments that explain how is works.
 
+
 Exercise 02 [2/100]: 
+
 A.	Create a text file and put some English text. At least 500 words
 
 B.	Write a compare_stemmers.py that:
@@ -26,7 +29,9 @@ e.	See if you observe any differences. Write your observations in a text file (r
 
 C.	The program should contain comments that explain how it works.
 
+
 Exercise 03 [2.5/100]:
+
 A.	Copy the python files train.py, dataset.py of lecture 04. The train.py generates TF-IDF vectors of N features for the phrases of a dataset and trains a K-NN model from them. 
 
 B.	Create a function (is a separate utils.py) that takes as parameters, a matrix of TF-IDF vectors and the respective phrases.  The function should POS tag each phrase count how many ADJ and ADV occur (universal tagset) and add two features in each vector. Use position N and N+1 for the two POS features. The new vectors should be returned by the function.
